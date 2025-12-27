@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1c5c65f-4ea4-43e7-ba0d-057a81cfe95b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/10. Ders/fletodev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12. Ders/3_hangisi_hizli.py" beforeDir="false" afterPath="$PROJECT_DIR$/12. Ders/3_hangisi_hizli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. Ders/4_paint_kare_cizdirme.py" beforeDir="false" afterPath="$PROJECT_DIR$/9. Ders/4_paint_kare_cizdirme.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33NHLZE6UfN5WvdHNWsbhQUk0Yq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_for.executor": "Run",
+    "Python.10_rastgele_sayi_uretme.executor": "Run",
+    "Python.10_termcolor2.executor": "Run",
+    "Python.10_tkinter_ornek.executor": "Run",
+    "Python.11_decorator.executor": "Run",
+    "Python.11_file_operations.executor": "Run",
+    "Python.11_for_2.executor": "Run",
+    "Python.11_metinler.executor": "Run",
+    "Python.12_file_write.executor": "Run",
+    "Python.12_for_else.executor": "Run",
+    "Python.12_html_ui.executor": "Run",
+    "Python.12_metin_karsilastirma.executor": "Run",
+    "Python.13_enumerate.executor": "Run",
+    "Python.13_metni_bicimli_yazdirma.executor": "Run",
+    "Python.13_palindrom_ornek.executor": "Run",
+    "Python.13_python_python_python.executor": "Run",
+    "Python.14_escape_char.executor": "Run",
+    "Python.14_fonksiyonlar.executor": "Run",
+    "Python.14_modul_ornek.executor": "Run",
+    "Python.15_boolean.executor": "Run",
+    "Python.15_file_ornek.executor": "Run",
+    "Python.15_parametrik_fonksiyon.executor": "Run",
+    "Python.16_iki_deger_dondurme.executor": "Run",
+    "Python.16_operatorler.executor": "Run",
+    "Python.17_birden_cok_parametre.executor": "Run",
+    "Python.17_listeler.executor": "Run",
+    "Python.18_listeler_2.executor": "Run",
+    "Python.18_parametre_isimlendirme.executor": "Run",
+    "Python.19_dictionary_parametre.executor": "Run",
+    "Python.19_listeler_3.executor": "Run",
+    "Python.1_csv_okuma.executor": "Run",
+    "Python.1_main.executor": "Run",
+    "Python.1_merhaba_dunya.executor": "Run",
+    "Python.1_ornek_uygulama.executor": "Run",
+    "Python.1_paralel_islem.executor": "Run",
+    "Python.1_uygulama.executor": "Run",
+    "Python.20_lambda.executor": "Run",
+    "Python.20_listeler_4.executor": "Run",
+    "Python.21_cok_parametreli_lambda.executor": "Run",
+    "Python.21_tuples.executor": "Run",
+    "Python.22_dictionary.executor": "Run",
+    "Python.22_lambdanin_gucu.executor": "Run",
+    "Python.23_alistirma_sorusu.executor": "Run",
+    "Python.23_ornek_1.executor": "Run",
+    "Python.24_ornek_2.executor": "Run",
+    "Python.26_kazik_ornek.executor": "Run",
+    "Python.2_2_csv_yazma_ornek.executor": "Run",
+    "Python.2_class.executor": "Run",
+    "Python.2_coinmarketcap_veri_getir.executor": "Run",
+    "Python.2_csv_yazma.executor": "Run",
+    "Python.2_if_kosullu_ifadesi.executor": "Run",
+    "Python.2_pyautogui_cozunurluk.executor": "Run",
+    "Python.2_python_syntax.executor": "Run",
+    "Python.2_thread_pool.executor": "Run",
+    "Python.3_class_degisken.executor": "Run",
+    "Python.3_degiskenler.executor": "Run",
+    "Python.3_hangisi_hizli.executor": "Run",
+    "Python.3_pandas.executor": "Run",
+    "Python.3_teams_otomatik_sohbet.executor": "Run",
+    "Python.4_class_method.executor": "Run",
+    "Python.4_degisken_tipleri.executor": "Run",
+    "Python.4_paint_kare_cizdirme.executor": "Run",
+    "Python.4_short_if.executor": "Run",
+    "Python.4_sqlite.executor": "Run",
+    "Python.5_aciklama_yorum_satiri.executor": "Run",
+    "Python.5_and_or.executor": "Run",
+    "Python.5_class_init.executor": "Run",
+    "Python.5_tkinter_giris.executor": "Run",
+    "Python.6_class_del.executor": "Run",
+    "Python.6_is.executor": "Run",
+    "Python.6_sqlite_ornek.executor": "Run",
+    "Python.6_tip_donusumu.executor": "Run",
+    "Python.6_tkinter_2.executor": "Run",
+    "Python.7_2_match.executor": "Run",
+    "Python.7_2_miras.executor": "Run",
+    "Python.7_3_ornek_soru.executor": "Run",
+    "Python.7_class_str.executor": "Run",
+    "Python.7_ic_ice_kosullu_ifade.executor": "Run",
+    "Python.7_kucuk_buyuk_harf_farki.executor": "Run",
+    "Python.7_tkinter_3.executor": "Run",
+    "Python.8_2_ornek_uygulama.executor": "Run",
+    "Python.8_evrensel_degiskenler.executor": "Run",
+    "Python.8_module_import.executor": "Run",
+    "Python.8_pass.executor": "Run",
+    "Python.8_tkinter_4.executor": "Run",
+    "Python.9_2_try_except_else_finally.executor": "Run",
+    "Python.9_buyuk_sayilar.executor": "Run",
+    "Python.9_tkinter_5.executor": "Run",
+    "Python.9_try_except.executor": "Run",
+    "Python.9_while.executor": "Run",
+    "Python.fletodev.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ömer/OmerCoskunPhyton/python_programlama",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b030e9c4a83c-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1c5c65f-4ea4-43e7-ba0d-057a81cfe95b" name="Changes" comment="" />
+      <created>1759150554537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759150554537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Ders/5_class_init.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

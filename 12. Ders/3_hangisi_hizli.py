@@ -25,6 +25,9 @@ for f in concurrent.futures.as_completed(results):
 print("--- %s seconds ---" % (time.time() - start_time))
 
 
+#thread sonuçları her çalıştırıldığımızda neden farklı çıkıyor.
+#thread buradaki hız farkının nedenini sorarım dedi.
+
 
 
 sonuclar=[]
